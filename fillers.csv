@@ -1,0 +1,12 @@
+itemnum,anim1,inan1,anim2,inan2,anim3,inan3,anim4,inan4,anim5,inan5,phrase,expected
+1,glasses_med,ladder_med,bathtub_med,man,rabbit,cherries_med,man,cheese_med,sandwich_med,goat,the i1,anim1
+10,policewoman,man,policewoman,sock_small,rabbit,truck_med,frog,car_med,pig,girl,the tall [a1] with the i1,anim1
+11,girl,bus_med,cat,cup_med,rabbit,box_big,rabbit,box_small,frog,bag_med,the a1,anim1
+12,short_woman,violin,policewoman,sandwich_med,pumpkin_med,pillow_med,zebra,briefcase_med,zebra,pitcher_med,tha short a1,anim1
+14,dog_med,lamp_small,dog_med,flower_small,mouse,lamp_big,zebra,bus_med,cat,flower_big,a1 with the i1,anim1
+16,car_med,book_med,girl,truck_big,girl,pillow_big,policewoman,fan_big,elephant,box_big,the a1,anim1
+17,tree_big,banana,tree_small,pineapple,cherries_med,policewoman,fork_med,car_med,fishbowl,goat,the taller a1,anim1
+19,car_med,trafficlight_med,car_med,glue_med,dog_med,chicken,dog_med,bag_med,pan_med,pail_med,the [a1] with the i1,anim1
+21,flower_small,cookie_med,flower_big,carrot_med,chessboard,book_med,cherries_med,mouse,fishbowl,pineapple,the shorter a1,anim1
+23,cat,bottle_small,cat,bathtub_med,boy,bottle_med,girl,bag_med,dog_med,cooler_med,the a1 with the i1,anim1
+24,man,horse,tall_man,tree_med,short_woman,bear,policewoman,ball_med,pumpkin_med,train_med,the shorter [a1] with the i1,anim1
